@@ -1,4 +1,4 @@
-## 🏹 Vue Express Admin
+## ✔️ Vue Express Admin
 
 > 一个基于 Vue 全家桶 + Express.js 制作 管理后台 项目
 
