@@ -39,7 +39,9 @@
 
 - `cd Vue-Express-Admin`
 
-- `cd server/plugin.db.js` add your mongodb database address【recommend MongoDB Atlas】
+- `cd server/plugin.db.js`
+
+- add your mongodb database address【recommend MongoDB Atlas】
 
 - `cd admin && npm install`
 
