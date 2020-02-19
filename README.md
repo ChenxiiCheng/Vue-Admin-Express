@@ -4,13 +4,63 @@
 
 #### Preview | 预览
 
-![image-20191024232242863](./imgs/github1.png)
+![image-20191024232242863](./imgs/login.png)
 
-![image-20191024234724936](./imgs/github2.png)
+![image-20191024234724936](./imgs/cate.png)
+
+![image-20191024234724936](./imgs/champion.png)
+
+![image-20191024234724936](./imgs/chamlist.png)
+
+![image-20191024234724936](./imgs/items.png)
 
 ---
 
-### 技术栈
+## 后台系统 | Admin System
+
+- 基于 Element UI 的后台管理基础界面搭建
+
+- 创建分类
+
+- 分类列表
+
+- 修改分类
+
+- 删除分类
+
+- 子分类
+
+- 通用 CRUD 接口
+
+- 装备管理
+
+- 图片上传 (multer)
+
+- 英雄管理
+
+- 编辑英雄 (关联, 多选, el-select, multiple)
+
+- 技能编辑
+
+- 文章管理
+
+- 富文本编辑器 (quill)
+
+- 首页广告管理
+
+- 管理员账号管理 (bcrypt)
+
+- 登录页面
+
+- 登录接口 (jwt,jsonwebtoken)
+
+- 服务端登录校验
+
+- 客户端路由限制 (beforeEach, meta)
+
+- 上传文件的登录校验 (el-upload, headers)
+
+## 技术栈
 
 ### Front End
 
@@ -33,7 +83,7 @@
 
 ---
 
-### 本地运行
+## 本地运行
 
 - `git clone https://github.com/ChenxiiCheng/Vue-Express-Admin.git`
 
