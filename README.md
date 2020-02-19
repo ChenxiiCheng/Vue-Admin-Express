@@ -4,9 +4,15 @@
 
 #### Preview | 预览
 
-![image-20191024232242863](./imgs/github1.png)
+![image-20191024232242863](./imgs/login.png)
 
-![image-20191024234724936](./imgs/github2.png)
+![image-20191024234724936](./imgs/cate.png)
+
+![image-20191024234724936](./imgs/champion.png)
+
+![image-20191024234724936](./imgs/chamlist.png)
+
+![image-20191024234724936](./imgs/items.png)
 
 ---
 
