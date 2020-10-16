@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.0",
     "cors": "^2.8.5",
     "express": "^5.0.0-alpha.7",
     "http-assert": "^1.4.1",
